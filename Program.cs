@@ -85,36 +85,52 @@ namespace _2_Operators
             // ***********************
 
             //  Logical Operators (&&,||,!)
-            int x = 6;
+            // int x = 6;
 
-            int hak = 0;
-            char devammi='e';
-            // and (&&)
-            // true && true => true
-            // false && true => false
-            // false || false => false
+            // int hak = 0;
+            // char devammi='e';
+            // // and (&&)
+            // // true && true => true
+            // // false && true => false
+            // // false || false => false
 
-            var result = (x>5) && (x<10); 
-            result = (hak>0) && (devammi=='e');
+            // var result = (x>5) && (x<10); 
+            // result = (hak>0) && (devammi=='e');
 
-            // or (||)
-            // true || true => true
-            // false || true => true
-            // false || false => false
+            // // or (||)
+            // // true || true => true
+            // // false || true => true
+            // // false || false => false
 
-            result = (x > 0) || (x % 2 == 0);
+            // result = (x > 0) || (x % 2 == 0);
 
-            // not (!)
-            // true => false
-            // false => true
+            // // not (!)
+            // // true => false
+            // // false => true
 
-            result = !(x>0);
+            // result = !(x>0);
 
-            // x, 5-10 arasında olan bir çift sayı mıdır?
-            result = ((x>5) && (x<10)) && (x%2==0); // (true && true) && true
+            // // x, 5-10 arasında olan bir çift sayı mıdır?
+            // result = ((x>5) && (x<10)) && (x%2==0); // (true && true) && true
 
-            Console.Write(result);
-        
+            // Console.Write(result);
+
+
+            // ******************************
+
+            // Operators Application
+
+            int num;
+            num=Convert.ToInt32(Console.ReadLine());
+            string result=(num%2==0&&num>0)?"Positive even number":"Not positive even number";
+            Console.WriteLine(result);
+
+
+
+
+
+
+
         }
     }
 }
