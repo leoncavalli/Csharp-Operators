@@ -1,0 +1,11 @@
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.exe
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.deps.json
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.runtimeconfig.json
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.runtimeconfig.dev.json
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.dll
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\C#\2-Operators\bin\Debug\netcoreapp3.1\2-Operators.pdb
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\C#\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.csprojAssemblyReference.cache
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\C#\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.AssemblyInfoInputs.cache
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\C#\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.AssemblyInfo.cs
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\C#\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.dll
+C:\Users\bunya\OneDrive\Masaüstü\.NetCore\C#\2-Operators\obj\Debug\netcoreapp3.1\2-Operators.pdb
