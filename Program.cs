@@ -57,30 +57,64 @@ namespace _2_Operators
               // password,username => database
             // '13456','sadikturan'
 
-            int a=5,b=5,c=10,d=4;
-            string username = "sadikturan";
-            string password = "1234567";
+            // int a=5,b=5,c=10,d=4;
+            // string username = "sadikturan";
+            // string password = "1234567";
 
-            var result = (a == b); // true
-            result = (a == c); // false
-            result = (username == "sdktrn");
-            result = (password == "123456");
-            result = (a != b);
-            result = (a != c);
-            result = (a > c);
-            result = (c > a);
-            result = (a >= b);
-            result = (a <= b);
+            // var result = (a == b); // true
+            // result = (a == c); // false
+            // result = (username == "sdktrn");
+            // result = (password == "123456");
+            // result = (a != b);
+            // result = (a != c);
+            // result = (a > c);
+            // result = (c > a);
+            // result = (a >= b);
+            // result = (a <= b);
             
-            string sonuc = (a == b)?"a=b":"a!=b";
-            sonuc = (username == "sadikturan")?
-                        (password == "123456")?"username doğru ve parola doğru":"username doğru ve parola yanlış":
-                        (password == "123456")?"username yanlış ve parola doğru":"username yanlış ve parola yanlış";
+            // string sonuc = (a == b)?"a=b":"a!=b";
+            // sonuc = (username == "sadikturan")?
+            //             (password == "123456")?"username doğru ve parola doğru":"username doğru ve parola yanlış":
+            //             (password == "123456")?"username yanlış ve parola doğru":"username yanlış ve parola yanlış";
            
 
-            Console.WriteLine(sonuc);
-            Console.WriteLine("result: "+result);
+            // Console.WriteLine(sonuc);
+            // Console.WriteLine("result: "+result);
 
+
+            // ***********************
+
+            //  Logical Operators (&&,||,!)
+            int x = 6;
+
+            int hak = 0;
+            char devammi='e';
+            // and (&&)
+            // true && true => true
+            // false && true => false
+            // false || false => false
+
+            var result = (x>5) && (x<10); 
+            result = (hak>0) && (devammi=='e');
+
+            // or (||)
+            // true || true => true
+            // false || true => true
+            // false || false => false
+
+            result = (x > 0) || (x % 2 == 0);
+
+            // not (!)
+            // true => false
+            // false => true
+
+            result = !(x>0);
+
+            // x, 5-10 arasında olan bir çift sayı mıdır?
+            result = ((x>5) && (x<10)) && (x%2==0); // (true && true) && true
+
+            Console.Write(result);
+        
         }
     }
 }
