@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\C#\\2-Operators\\2-Operators.csproj": {}
+    "c:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\C#\\2-Operators\\2-Operators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\C#\\2-Operators\\2-Operators.csproj": {
+    "c:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\C#\\2-Operators\\2-Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\C#\\2-Operators\\2-Operators.csproj",
+        "projectUniqueName": "c:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\C#\\2-Operators\\2-Operators.csproj",
         "projectName": "2-Operators",
-        "projectPath": "C:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\C#\\2-Operators\\2-Operators.csproj",
+        "projectPath": "c:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\C#\\2-Operators\\2-Operators.csproj",
         "packagesPath": "C:\\Users\\bunya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\C#\\2-Operators\\obj\\",
+        "outputPath": "c:\\Users\\bunya\\OneDrive\\Masaüstü\\.NetCore\\C#\\2-Operators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bunya\\AppData\\Roaming\\NuGet\\NuGet.Config",

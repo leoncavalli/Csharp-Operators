@@ -7,7 +7,7 @@ namespace _2_Operators
         static void Main(string[] args)
         {
             // ArithmeticOperators
-          
+
             // int a=10;
             // int b=8;
             // float result;
@@ -54,7 +54,7 @@ namespace _2_Operators
 
             // Comparison Operators
 
-              // password,username => database
+            // password,username => database
             // '13456','sadikturan'
 
             // int a=5,b=5,c=10,d=4;
@@ -71,12 +71,12 @@ namespace _2_Operators
             // result = (c > a);
             // result = (a >= b);
             // result = (a <= b);
-            
+
             // string sonuc = (a == b)?"a=b":"a!=b";
             // sonuc = (username == "sadikturan")?
             //             (password == "123456")?"username doğru ve parola doğru":"username doğru ve parola yanlış":
             //             (password == "123456")?"username yanlış ve parola doğru":"username yanlış ve parola yanlış";
-           
+
 
             // Console.WriteLine(sonuc);
             // Console.WriteLine("result: "+result);
@@ -123,11 +123,10 @@ namespace _2_Operators
             int num;
             num=Convert.ToInt32(Console.ReadLine());
             string result=(num%2==0&&num>0)?"Positive even number":"Not positive even number";
-            Console.WriteLine(result);
+            Console.WriteLine(result);   
 
 
-
-
+            
 
 
 
